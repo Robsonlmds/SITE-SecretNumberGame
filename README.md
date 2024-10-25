@@ -21,3 +21,8 @@ Este é um simples jogo de adivinhação de números feito em JavaScript. O obje
 2. O usuário insere um número e o sistema informa se o número secreto é maior ou menor.
 3. Quando o usuário acerta o número, o jogo informa quantas tentativas foram necessárias.
 4. O jogo pode ser reiniciado clicando no botão "Reiniciar", que só é habilitado após o acerto do número.
+
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Obrigado+pela+atenção!;" />
+</h1>
