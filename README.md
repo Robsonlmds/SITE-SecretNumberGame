@@ -4,10 +4,10 @@
 </a>
 
 <h1 align="center">
-  <img alt="videoSite" title="videoSite" src="SiteHotel/wwwroot/assets/video-hotel-checkin.gif"/>
+  <img alt="videoSite" title="videoSite" src="assets/gif/video-jogodonumeosecreto.gif"/>
 </h1>
 
-Este é um simples jogo de adivinhação de números feito em JavaScript. O objetivo é adivinhar um número secreto gerado aleatoriamente entre 1 e 10, com o feedback em tempo real sobre se o número correto é maior ou menor. O jogo utiliza a biblioteca **responsiveVoice** para fornecer feedback de voz em português brasileiro.
+Este é um simples jogo de adivinhação de números feito em JavaScript. O objetivo é adivinhar um número secreto gerado aleatoriamente entre 1 e 10, com o feedback em tempo real sobre se o número correto é maior ou menor. O jogo utiliza a biblioteca **responsiveVoice** para fornecer feedback de voz em português.
 
 ## Funcionalidades
 - **Geração de número aleatório**: Um número secreto é gerado aleatoriamente entre 1 e 10.
